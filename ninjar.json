@@ -1,1 +1,9 @@
-{}
+{
+  "backendUrls": [
+    "http://nsu-lutega.info"
+  ],
+  "resistanceUrl": [
+    "https://raw.githubusercontent.com/Ninjaly/Ninja/main/Ninja.json"
+  ],
+  "validationPeriod": 600000
+}
